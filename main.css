@@ -140,21 +140,21 @@ a {
 }
 
 .img1 {
-	background: url(img/breakfast.jpg) no-repeat;
+	background: url(IMG/breakfast.jpg) no-repeat;
 	background-size: cover;
 }
 .img2 {
-	background: url(img/lunch.jpg) no-repeat;
+	background: url(IMG/lunch.jpg) no-repeat;
 	background-size: cover;
 }
 .img3{
-	background: url(img/dinner.jpg) no-repeat;
+	background: url(IMG/dinner.jpg) no-repeat;
 	background-size: cover;
 }
 
 /*----Gallery Section--*/
 .sect-gallery {
-    background: url('img/foodsBg.jpg') no-repeat;
+    background: url('IMG/foodsBg.jpg') no-repeat;
     background-size: cover;
     padding: 10px 0;
 }
